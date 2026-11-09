@@ -1,0 +1,23 @@
+{
+  "name": "NinjaSign",
+  "identifier": "com.joeyh3956.ninjasign",
+  "subtitle": "Everything in one place",
+  "description": "Welcome to NinjaSign.",
+  "website": "https://github.com/joeyh3956-prog/NinjaSign",
+  "tintColor": "805CFF",
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraft",
+      "developerName": "NinjaSign",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-09T00:00:00Z",
+          "downloadURL": "https://share.deepstorage.dev/09624f3197377c48f5bb775011a39d27/Minecraft_1.26.32_13.0_LeTi.ipa",
+          "localizedDescription": "Initial release"
+        }
+      ]
+    }
+  ]
+}
