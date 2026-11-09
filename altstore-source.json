@@ -2,8 +2,6 @@
   "name": "NinjaSign",
   "identifier": "com.joeyh3956.ninjasign",
   "subtitle": "Everything in one place",
-  "iconURL": "https://github.com/joeyh3956-prog.png",
-  "website": "https://github.com/joeyh3956-prog/NinjaSign",
   "tintColor": "805CFF",
   "apps": [
     {
@@ -12,7 +10,6 @@
       "developerName": "NinjaSign",
       "subtitle": "My application",
       "localizedDescription": "My application description",
-      "iconURL": "https://github.com/joeyh3956-prog.png",
       "tintColor": "805CFF",
       "versions": [
         {
